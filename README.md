@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 ---
 
-### 👨‍🎓 About Me  
-- 🎓 4th-year student at **Bulacan State University**  
-- 🖥️ Experienced with **Java, C++, Python, PHP, HTML, CSS, JavaScript, Android Studio**  
-- 📜 Completed **The Complete Web Development Bootcamp (Udemy)**  
-- ☁️ Currently studying for **Microsoft Azure AZ-900 Certification**  
-- 🌱 Passionate about **Web Development, Cloud Computing, and Mobile App Development**  
-- 🎯 Goal: To become a **Full-Stack Developer** and cloud-certified professional  
-
+### 🌟 About Me
+- 🎓 Currently pursuing a **Bachelor of Science in Information Technology** at **Bulacan State University**
+- 📚 Learned and practiced programming with **Java, C++, C#, PHP, Python, JavaScript, HTML, CSS**, and more  
+- 💻 Built projects using **Android Studio, Firebase, and MySQL**
+- 📜 Certified in **The Complete Web Development Bootcamp (Udemy)**
+- ☁️ Currently studying for the **Microsoft Azure AZ-900 Certification**
+- 🚀 Passionate about **web development, mobile app development, and cloud computing**
+- 🌱 Always exploring new tech and improving my skills
 ---
 
 ### 📚 Tools & Technologies I’ve Learned   
