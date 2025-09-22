@@ -117,10 +117,6 @@ Here are some ideas to get you started:
       <br>Word
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v2.png" width="48" height="48" alt="Excel" />
-      <br>Excel
-    </td>
-    <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v2.png" width="48" height="48" alt="PowerPoint" />
       <br>PowerPoint
     </td>
