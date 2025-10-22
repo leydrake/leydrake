@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 ---
 
 ### 🎓 Certifications & Learning
-☁️ Currently studying: Microsoft Azure Fundamentals (AZ-900)
-📜 Certified: The Complete Web Development Bootcamp (Udemy)
-  (Full-stack web development — HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and GitHub. — https://www.udemy.com/certificate/UC-25658ed8-63c3-49ef-b93a-c183c4afbbe3/)
-🌐Certified: Networking Basics – Cisco Networking Academy (Credly)
-  (Fundamentals of computer networking, IP addressing, and connectivity. — https://www.credly.com/badges/fb359c41-9936-4d7e-a26f-6172d962b0e4)
+- ☁️ Currently studying: Microsoft Azure Fundamentals (AZ-900)
+- 📜 Certified: The Complete Web Development Bootcamp (Udemy)
+    (Full-stack web development — HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and GitHub. — https://www.udemy.com/certificate/UC-25658ed8-63c3-49ef-b93a-c183c4afbbe3/)
+- 🌐Certified: Networking Basics – Cisco Networking Academy (Credly)
+    (Fundamentals of computer networking, IP addressing, and connectivity. — https://www.credly.com/badges/fb359c41-9936-4d7e-a26f-6172d962b0e4)
 
 
 ### 📚 Tools & Technologies I’ve Learned   
