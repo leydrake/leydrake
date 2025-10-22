@@ -23,11 +23,17 @@ Here are some ideas to get you started:
 - 🎓 Currently pursuing a **Bachelor of Science in Information Technology** at **Bulacan State University**
 - 📚 Learned and practiced programming with **Java, C++, C#, PHP, Python, JavaScript, HTML, CSS**, and more  
 - 💻 Built projects using **Android Studio, Firebase, and MySQL**
-- 📜 Certified in **The Complete Web Development Bootcamp (Udemy)**
-- ☁️ Currently studying for the **Microsoft Azure AZ-900 Certification**
 - 🚀 Passionate about **web development, mobile app development, and cloud computing**
 - 🌱 Always exploring new tech and improving my skills
 ---
+
+### 🎓 Certifications & Learning
+☁️ Currently studying: Microsoft Azure Fundamentals (AZ-900)
+📜 Certified: The Complete Web Development Bootcamp (Udemy)
+  (Full-stack web development — HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and GitHub. — https://www.udemy.com/certificate/UC-25658ed8-63c3-49ef-b93a-c183c4afbbe3/)
+🌐Certified: Networking Basics – Cisco Networking Academy (Credly)
+  (Fundamentals of computer networking, IP addressing, and connectivity. — https://www.credly.com/badges/fb359c41-9936-4d7e-a26f-6172d962b0e4)
+
 
 ### 📚 Tools & Technologies I’ve Learned   
 
